@@ -1,0 +1,5 @@
+configuration,latency_ms
+Fully unfused,819.9
+Encoder MLP fused,711.8
+Decoder MLP fused,719.2
+Encoder + Decoder MLP fused,822.2

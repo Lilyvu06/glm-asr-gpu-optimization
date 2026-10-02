@@ -1,0 +1,3 @@
+configuration,latency_ms,relative_speed,transcription_accuracy
+Baseline,1477.4,1.0x,100%
+Best tested configuration,711.8,~2.1x,100%
